@@ -2,7 +2,7 @@
       <nav>
         <div class="nav-wrapper">
             <ul class="left hide-on-med-and-down">
-                  <a href="index.php" class="brand-logo center">Sports</a>
+                  <a href="index.php" class="brand-logo center">Home</a>
           <li><a href="soccer.php">Soccer</a></li>
           <li><a href="frisbee.php">Frisbee</a></li>
           <li><a href="baseball.php">Baseball</a></li>
