@@ -1,26 +1,12 @@
-<!DOCTYPE html>
+	<?php 
+	$currentPage = "Colophon";	
+	include "inc/topPart.inc"; 
+	?>
 
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title> CSC 174 Project 1</title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-	<body>
-
-	<div class="container">
-	<header>
-		<h1>
-			Sports!
-		</h1>
-
-	</header>
-
-      <?php include "inc/nav.inc"; ?>
+     <?php include "inc/nav.inc"; ?>
 
 	<header>
-		<h2>Highlights of the Project</h2>
+		<h3>Highlights of the Project</h3>
 	</header>
 
 		<section>
@@ -28,13 +14,13 @@
 				<p>Contented will added soon</p>
 		
 
-					<h3>Member Tasks </h3>
+					<h4>Member Tasks </h4>
 						<p>Contented will added soon</p>
 
-					<h3>Technologies Used</h3>
+					<h4>Technologies Used</h4>
 						<p>Contented will added soon</p>
 		
-					<h3>Content Sources</h3>
+					<h4>Content Sources</h4>
 						<p>Contented will added soon</p>
 
 		
@@ -42,7 +28,7 @@
 		</section>
 
 			<footer>
-				<h3>Team 5, CSC	174	Advance Front-End Web Development</h3>	
+				<h4>Team 5, CSC	174	Advance Front-End Web Development</h4>	
 			</footer>
 
 	</div><!-- .container -->
