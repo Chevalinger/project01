@@ -1,21 +1,9 @@
-<!DOCTYPE html> 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Baseball, CSC 174 Project 1</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
-    <body>
-      <div class="container">
-      <header>
-        <h1>
-          Sports!
-        </h1>
+	<?php 
+	$currentPage = "Baseball";	
+	include "inc/topPart.inc"; 
+	?>
 
-      </header>
-
-      <?php include "inc/nav.inc"; ?>
+    <?php include "inc/nav.inc"; ?>
 
         <header>
             <h2>Baseball</h2>
@@ -99,14 +87,12 @@
           </aside>
         </section>
 
-          <footer>
-          <h3>Team 5, CSC 174 Advance Front-End Web Development</h3>
-            <h4>Citations</h4>
+        <?php
+        $sportName = "Baseball - ";
+		$contentFrom = "https://en.wikipedia.org/wiki/Baseball";
+		include "inc/footer.inc"
+		?>
 
-            <ul>
-              <li>Content comes from <a href="https://en.wikipedia.org/wiki/Baseball">Wikipedia/baseball,</a></li>
-            </ul>
-          </footer>
       </div><!-- .container -->
     </body>
 </html>
