@@ -7,7 +7,7 @@
 	</div>
 	<div class ="footer-copyright">
 		<div class ="container">
-			Content taken from    <a href="<?php echo $contentFrom ?>" class="waves-effect waves-light btn"><?php echo "$sportName" ?>Wikipedia</a>
+			Content taken from    <a href="<?php echo $contentFrom ?>" class="waves-effect waves-light btn cyan"><?php echo "$sportName" ?>Wikipedia</a>
 		</div>
 	</div>			
 </footer>
