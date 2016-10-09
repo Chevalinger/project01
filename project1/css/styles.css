@@ -25,13 +25,13 @@ ul {
 	padding-left: 15px;
 }
 
-a{
-	color: #7D9C9F;
+a {
+	color: #1a237e;
 	text-decoration: none;
 }
 
 a:hover{
-	color: #AD235E;
+	color: #3f51b5;
 }
 
 .container{
@@ -47,11 +47,16 @@ article, aside {
 
 
 article{
-	width: 70%;
+	width: 60%;
 	padding-right: 30px;
 }
 
 aside {
 	width: 30%;
 	padding-left: 30px;
+}
+
+.horizontal {
+	max-width: 50%;
+	float: right;
 }
