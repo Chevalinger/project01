@@ -1,14 +1,16 @@
 body {
-	background-color: #DFEFF0;
-	 color: #333333;
-font-family: Arial, Helvetica, sans-serif; 
+	background-color: #c5cae9;
+	 color: #00001a;
+font-family: avenir-book, Arial, Helvetica, sans-serif; 
 }
 
-/*h1, h2, h3, h4 {
-	color: #AD235E;
-	border-bottom: 1px solid #AD235E;
-} */
+h1, h2 {
+	font-family: avenir-heavy, Arial, Helvetica, sans-serif; 
+	} 
 
+h3, h4 {
+	font-family: avenir-medium, Arial, Helvetica, sans-serif; 
+}
 
 p {
 	margin-top: 0px;
