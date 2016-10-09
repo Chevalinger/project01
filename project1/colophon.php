@@ -27,9 +27,9 @@
 			</article>
 		</section>
 
-			<footer>
-				<h4>Team 5, CSC	174	Advance Front-End Web Development</h4>	
-			</footer>
+			<?php 
+			$contentFrom = "https://en.wikipedia.org";
+			include "inc/footer.inc"; ?>
 
 	</div><!-- .container -->
 
