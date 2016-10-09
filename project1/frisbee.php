@@ -1,19 +1,7 @@
-<!DOCTYPE html> 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Frisbee, CSC 174 Project 1</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
-    <body>
-      <div class="container">
-      <header>
-        <h1>
-          Sports!
-        </h1>
-
-      </header>
+<?php 
+  $currentPage = "Frisbee";  
+  include "inc/topPart.inc"; 
+  ?>
 
       <?php include "inc/nav.inc"; ?>
 
@@ -88,14 +76,11 @@
           </aside>
         </section>
 
-          <footer>
-          <h3>Team 5, CSC 174 Advance Front-End Web Development</h3>
-            <h4>Citations</h4>
-
-            <ul>
-              <li>Content comes from <a href="https://en.wikipedia.org/wiki/Frisbee">Wikipedia/frisbee,</a></li>
-            </ul>
-          </footer>
+          <?php
+          $sportName = "Frisbee - ";
+          $contentFrom = "https://en.wikipedia.org/wiki/Frisbee";
+          include "inc/footer.inc"
+    ?>
       </div><!-- .container -->
     </body>
 </html>
