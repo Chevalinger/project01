@@ -22,12 +22,22 @@
 					<p>Within the English-speaking world, association football is now usually called football in the United Kingdom and mainly soccer in Canada and the United States. People in Australia, Ireland and New Zealand use either or both terms, although national associations in Australia and New Zealand now primarily use "football" for the formal name.[10]</p>
 
 				<h3>History</h3>
-					<div>
-						<figure>
-							<img src="images/soccer2.jpg" alt="Soccer History">
-							<figcaption>An episkyros player on an ancient stone carving at the National Archaeological Museum, Athens.</figcaption>
-						</figure>
-					</div>
+					
+
+				 <div class="col s12 m7">
+        
+            <div class="card horizontal">
+            <div class="card-image">
+              
+                <img src="images/soccer2.jpg" alt="Soccer History">
+                </div>
+                <div class="card-stacked">
+                <div class="card-content">
+                    <p>An episkyros player on an ancient stone carving at the National Archaeological Museum, Athens.</p>
+                </div>
+                </div>
+              </div>
+            </div>
 
 					<p>According to FIFA, the Chinese competitive game cuju (蹴鞠, literally "kick ball") is the earliest form of football for which there is scientific evidence.[12] Cuju players could use any part of the body apart from hands and the intent was kicking a ball through an opening into a net. It was remarkably similar to modern football, though similarities to rugby occurred.[13][14] During the Han Dynasty (206 BC – 220 AD), cuju games were standardised and rules were established.[13]</p>
 
@@ -43,16 +53,27 @@
 
 				<aside>
 					<h3>Association football</h3>
-					<div>
-						<figure>
-							<img src="images/soccer.jpg" alt="Soccer">
-							<figcaption>The attacking player (No. 10) attempts to kick the ball beyond the opposing team's goalkeeper, between the goalposts, and beneath the crossbar to score a goal.</figcaption>
-						</figure>
-					</div>
+					
+					<div class="row">
+        
+            <div class="card">
+            <div class="card-image">
+              
+                <img src="images/soccer.jpg" alt="Soccer">
+                <span class="card-title">Playing Soccer</span>
+                </div>
+                <div class="card-content">
+                    <p>The attacking player (No. 10) attempts to kick the ball beyond the opposing team's goalkeeper, between the goalposts, and beneath the crossbar to score a goal.</p>
+                </div>
+              
+            </div>
+          
+        </div>
+
 
 					<h4>Highest Governing Body</h4>
 						<ul>
-							<li><a href="https://en.wikipedia.org/wiki/FIFA">FIFA,</a></li>
+							<li><a href="https://en.wikipedia.org/wiki/FIFA">FIFA</a></li>
 						</ul>
 
 					<h4>Nicknames</h4>
