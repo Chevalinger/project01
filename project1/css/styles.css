@@ -57,6 +57,10 @@ aside {
 }
 
 .horizontal {
-	max-width: 50%;
+	max-width: 55%;
 	float: right;
+}
+
+.smaller {
+	max-width: 80%;
 }

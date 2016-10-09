@@ -19,12 +19,24 @@
                 <p>Lift is generated in the same way as a traditional airfoil. The rotating frisbee has a nearly vertical angular momentum vector, stabilizing its angle of attack via gyroscopic action. If the disc were not spinning, it would crash to pitch. When the disc is spinning, however, aerodynamic torque instead leads to precess about the spin axis, causing its trajectory to curve to the left or the right. Most discs are designed to be aerodynamically stable so that this roll is accurate for a fairly broad range of velocities and rates of spin. Many disc golf discs, however, are intentionally designed to be unstable. Higher rates of spin lead to more stability, and, for a given rate of spin, there is generally a range of velocities that are stable. Even a slight deformation in a disc (called a "taco," which in extreme cases looks like a taco shell) can cause negative effects when throwing long range. A disk can be checked for these deformations by holding it horizontally at eye level and looking at the rim while slowly turning it.[3]</p>
 
               <h3>History</h3>
-                 <div>
-                  <figure>
-                    <img src="images/frisbee1.jpg" alt="Frisbee History">
-                    <figcaption>The first Frisbee (Professional Model) ever designed with a tournament identification. The 1972 Canadian Open Frisbee Championships,Toronto.</figcaption>
-                  </figure>
+
+                
+            <div class="col s12 m7">
+        
+            <div class="card horizontal">
+            <div class="card-image">
+              
+                <img src="images/frisbee1.jpg" alt="Frisbee History">
                 </div>
+                <div class="card-stacked">
+                <div class="card-content">
+                    <p>The first Frisbee (Professional Model) ever designed with a tournament identification. The 1972 Canadian Open Frisbee Championships,Toronto.</p>
+                </div>
+                </div>
+              </div>
+            </div>
+          
+      
 
                 <p>Fred Morrison discovered a market for the modern-day flying disc[6] in 1938 when he and future wife, Lucile, were offered 25 cents for a cake pan that they were tossing back and forth on a beach in New Haven, CT. "That got the wheels turning, because you could buy a cake pan for five cents, and if people on the beach were willing to pay a quarter for it, well - there was a business," Morrison told The Virginian-Pilot newspaper in 2007.[7]</p>
 
@@ -43,18 +55,36 @@
 
           <aside>
             <h3>Frisbee</h3>
-            <div>
-              <figure>
+            
+            <div class="row">
+        
+            <div class="card smaller">
+            <div class="card-image">
+              
                 <img src="images/frisbee2.jpg" alt="Frisbee Throw">
-                <figcaption>Someone throwing a flying disc</figcaption>
-              </figure>
+                <span class="card-title">Frisbee Throw</span>
+                </div>
+                <div class="card-content">
+                    <p>Someone throwing a flying disc</p>
+                </div>
+              
             </div>
+          
+        </div>
 
-            <div>
-              <figure>
+
+            <div class="row">
+        
+            <div class="card smaller">
+            <div class="card-image">
+
                 <img src="images/frisbee3.jpg" alt="Frisbee Catch">
-                <figcaption>Person catching a flying disc</figcaption>
-              </figure>
+                <span class="card-title">Frisbee Catch</span>
+                </div>
+                <div class="card-content">
+                    <p>Someone catching a flying disc</p>
+                </div>
+               </div>
             </div>
 
               <h4>Related games</h4>
