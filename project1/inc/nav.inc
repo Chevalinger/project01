@@ -1,5 +1,5 @@
 <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper indigo lighten-2">
       <a href="index.php" class="brand-logo center">Home</a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
          <li><a href="soccer.php">Soccer</a></li>
