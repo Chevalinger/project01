@@ -22,13 +22,13 @@
 					<h3>Frisbee</h3>
 						<p>A frisbee (sometimes called a flying disc) is a disc-shaped gliding toy or sporting item that is generally plastic and roughly 20 to 25 centimetres (8 to 10 in) in diameter with a lip,[1] used recreationally and competitively for throwing and catching, for example, in flying disc games. The shape of the disc, an airfoil in cross-section, allows it to fly by generating lift as it moves through the air while spinning.</p>
 
-						<p><a href="frisbee.php" class="waves-effect waves-light btn">Click here to read more about Frisbee.</a></p>
+						<p><a href="frisbee.php" class="waves-effect waves-light btn">Click here to read more about Frisbee</a></p>
 		
 					<h3>Baseball</h3>
 						<p>Baseball is a bat-and-ball game played between two teams of nine players each, who take turns batting and fielding.
 						The batting team attempts to score runs by hitting a ball that is thrown by the pitcher with a bat swung by the batter, then running counter-clockwise around a series of four bases: first, second, third, and home plate. A run is scored when a player advances around the bases and returns to home plate.</p>
 
-						<p><a href="baseball.php" class="waves-effect waves-light btn">Click here to read more about Baseball.</a></p>
+						<p><a href="baseball.php" class="waves-effect waves-light btn">Click here to read more about Baseball</a></p>
 		
 			</article>
 		</section>
