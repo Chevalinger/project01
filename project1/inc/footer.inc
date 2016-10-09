@@ -1,4 +1,4 @@
-<footer class= "page-footer">
+<footer class= "page-footer indigo lighten-2">
 	<div class = "container">
 		<div class = "row">
 				<h4 class = "white-text">About us:</h4>
@@ -7,7 +7,7 @@
 	</div>
 	<div class ="footer-copyright">
 		<div class ="container">
-			Content taken from:<a href="<?php echo $contentFrom ?>" class="waves-effect waves-light btn"><?php echo "$sportName" ?>Wikipedia</a>
+			Content taken from    <a href="<?php echo $contentFrom ?>" class="waves-effect waves-light btn"><?php echo "$sportName" ?>Wikipedia</a>
 		</div>
 	</div>			
 </footer>
