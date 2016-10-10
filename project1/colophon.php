@@ -1,10 +1,14 @@
+	
 	<?php 
-	$currentPage = "Colophon";	
+	//Add the name of the page to the title
+	$currentPage = "Colophon";
+	//Include the topPart file.	
 	include "inc/topPart.inc"; 
 	?>
-
+<!--Load the fonts to our page -->
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
+	<!--Add the navigation to our page using PHP includes -->
      <?php include "inc/nav.inc.php"; ?>
 
 
