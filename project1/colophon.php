@@ -5,7 +5,7 @@
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-     <?php include "inc/nav.inc"; ?>
+     <?php include "inc/nav.inc.php"; ?>
 
 
 		<h2>Highlights of the Project</h2>
