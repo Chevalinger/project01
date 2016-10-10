@@ -19,7 +19,7 @@
 					<h4>Member Tasks </h4>
 						<ul class="collection">
 						    <li class="collection-item avatar">
-						      <img src="images/yuna.jpg" alt="" class="circle">
+						      <i class="material-icons circle blue">store</i>
 						      <span class="title">Alizah Barker</span>
 						      <p>Architect<br>
 						         What we actually did
@@ -27,7 +27,7 @@
 						      
 						    </li>
 						    <li class="collection-item avatar">
-						      <i class="material-icons circle">http</i>
+						      <i class="material-icons circle yellow">http</i>
 						      <span class="title">Chadrick Frederick</span>
 						      <p>Content Master and Designer<br>
 						         What we actually did
@@ -43,7 +43,7 @@
 						      
 						    </li>
 						    <li class="collection-item avatar">
-						      <i class="material-icons circle red">perm_media</i>
+						      <i class="material-icons circle red">view_quilt</i>
 						      <span class="title">Mariana Flores Kim</span>
 						      <p>Framework Wrangler<br>
 						         What we actually did
@@ -51,7 +51,7 @@
 						      
 						    </li>
 						    <li class="collection-item avatar">
-						      <i class="material-icons circle red">view_carousel</i>
+						      <i class="material-icons circle purple">view_carousel</i>
 						      <span class="title">Jacob Margolis</span>
 						      <p>JavaScript Coder<br>
 						         What we actually did
