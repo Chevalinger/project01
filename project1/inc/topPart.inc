@@ -10,11 +10,11 @@
 	</head>
 	<body>
 
-	<div class="carousel carousel-slider">
+	<!-- <div class="carousel carousel-slider">
 	    <a class="carousel-item" href="#soccer.php"><img src="images/carousel/soccer.jpg" alt="soccer"></a>
 	    <a class="carousel-item" href="#frisbee.php"><img src="images/carousel/frisbee.jpg" alt="frisbee"></a>
 	    <a class="carousel-item" href="#baseball.php"><img src="images/carousel/baseball.jpg" alt="baseball"></a>
-  	</div>
+  	</div> -->
 
 	<div class="container">
 	<header>
