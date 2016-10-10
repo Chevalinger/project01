@@ -1,0 +1,13 @@
+To do list:
+
+-Finish slideshow
+-Make home buttong larger
+
+-Mobile
+	Add container
+	Fix picture smushing issues
+	site is loading too large
+	footer gets cutoff
+	double justify text
+
+-IE compatibility (dont use cards)
