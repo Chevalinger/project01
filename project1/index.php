@@ -5,6 +5,37 @@
 
 	<?php include "inc/nav.inc"; ?>
 
+
+<!-- 
+	<div class="carousel carousel-slider center" data-indicators="true">
+	    <div class="carousel-fixed-item center">
+     		<a class="btn waves-effect white grey-text darken-text-2">button</a>
+    	</div>
+    	<div class="carousel-item red white-text" href="#one!">
+      		<h2>First Panel</h2>
+      		<p class="white-text">This is your first panel</p>
+    	</div>
+    	<div class="carousel-item amber white-text" href="#two!">
+      		<h2>Second Panel</h2>
+      		<p class="white-text">This is your second panel</p>
+    	</div>
+    	<div class="carousel-item green white-text" href="#three!">
+      		<h2>Third Panel</h2>
+      		<p class="white-text">This is your third panel</p>
+    	</div>
+    	<div class="carousel-item blue white-text" href="#four!">
+     	 	<h2>Fourth Panel</h2>
+      		<p class="white-text">This is your fourth panel</p>
+    	</div>
+  	</div>
+ -->
+  	<!-- <div class="carousel carousel-slider">
+	    <a class="carousel-item" href="soccer.php"><img src="images/carousel/soccer.jpg" alt="soccer"></a>
+	    <a class="carousel-item" href="frisbee.php"><img src="images/carousel/frisbee.jpg" alt="frisbee"></a>
+	    <a class="carousel-item" href="baseball.php"><img src="images/carousel/baseball.jpg" alt="baseball"></a>
+  	</div> -->
+  	
+
 	<header>
 		<h2>Highlights of the Sport</h2>
 	</header>
@@ -41,6 +72,10 @@
 	</div><!-- .container -->
 
 		<!-- Site information was collected from wikipedia at https://en.wikipedia.org/wiki/Sport-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+		<script src="js/materialize.min.js"></script>
+		<script type="text/javascript" src="js/carousel.js"></script>
 
 	</body>
 </html>
