@@ -1,15 +1,15 @@
 body {
 	background-color: #c5cae9;
 	 color: #00001a;
-font-family: avenir-book, Arial, Helvetica, sans-serif; 
+font-family: avenir-book, geneva, Arial, Helvetica, sans-serif; 
 }
 
 h1, h2 {
-	font-family: avenir-heavy, Arial, Helvetica, sans-serif; 
+	font-family: avenir-heavy, geneva, Arial, Helvetica, sans-serif; 
 	} 
 
 h3, h4 {
-	font-family: avenir-medium, Arial, Helvetica, sans-serif; 
+	font-family: avenir-medium, geneva, Arial, Helvetica, sans-serif; 
 }
 
 p {
@@ -34,7 +34,7 @@ a:hover{
 	margin: 0 auto;
 	width: 80%;
 	max-width: 1200px;
-	min-width: 520px;
+	
 }
 
 article, aside {
@@ -78,7 +78,7 @@ aside {
 		max-width: 100%;
 		margin: 0 auto;
 		width: 80%;
-		min-width: 520px;
+		
 	}
 
 }

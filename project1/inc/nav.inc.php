@@ -8,7 +8,7 @@
           <li <?php if ($currentPage == "Baseball") echo 'class="active"';?>><a href="baseball.php">Baseball</a></li>
           <li <?php if ($currentPage == "Colophon") echo 'class="active"';?>><a href="colophon.php">Colophon</a></li>
       </ul>
-       <ul class="side-nav" id="mobile-demo">
+       <ul class="side-nav indigo lighten-4" id="mobile-demo">
         <li><a href="index.php">Home</a></li>
         <li><a href="soccer.php">Soccer</a></li>
         <li><a href="frisbee.php">Frisbee</a></li>
