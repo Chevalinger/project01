@@ -7,9 +7,9 @@
 
      <?php include "inc/nav.inc"; ?>
 
-	<header>
+
 		<h2>Highlights of the Project</h2>
-	</header>
+	
 
 		<section>
 			<article>
@@ -17,7 +17,7 @@
 		
 
 					<h3>Member Tasks</h3>
-						<ul class="collection">
+						<ul class="collection tasks">
 						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle blue">store</i>
 						      <span class="title">Alizah Barker</span>

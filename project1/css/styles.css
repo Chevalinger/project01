@@ -61,3 +61,21 @@ aside {
 .smaller {
 	max-width: 80%;
 }
+
+.tasks {
+	max-width: 60%
+}
+
+
+/* ****************
+	STATE
+	************* */
+
+	@media (max-width: 720px) {
+	article, aside, footer, header, .container {
+		display: block;
+		width: auto;
+		max-width: 100%
+	}
+
+}

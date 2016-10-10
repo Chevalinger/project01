@@ -5,9 +5,9 @@
 
     <?php include "inc/nav.inc"; ?>
 
-        <header>
+        
             <h2>Baseball</h2>
-        </header>
+        
 
         <section>
           <article>
