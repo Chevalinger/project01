@@ -1,7 +1,11 @@
 <footer class= "page-footer indigo lighten-2">
 	<div class = "container">
 		<div class = "row">
+<<<<<<< HEAD
 				<h4 class = "white-text">About us:</h4>
+=======
+				<h5 class = "white-text">About us:</h4>
+>>>>>>> origin/master
 				<p class = "flow-text">Team 5, CSC 174 Advanced Front-End Web Development</p>
 		</div>
 	</div>

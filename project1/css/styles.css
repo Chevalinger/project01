@@ -75,7 +75,10 @@ aside {
 	article, aside, footer, header, .container {
 		display: block;
 		width: auto;
-		max-width: 100%
+		max-width: 100%;
+		margin: 0 auto;
+		width: 80%;
+		min-width: 520px;
 	}
 
 }

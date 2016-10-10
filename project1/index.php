@@ -3,7 +3,7 @@
 	  include "inc/topPart.inc"; 
 	  ?>
 
-	<?php include "inc/nav.inc"; ?>
+	<?php include "inc/nav.inc.php"; ?>
 
 
 <!-- 
