@@ -8,7 +8,7 @@
      <?php include "inc/nav.inc"; ?>
 
 	<header>
-		<h3>Highlights of the Project</h3>
+		<h2>Highlights of the Project</h2>
 	</header>
 
 		<section>
@@ -16,9 +16,9 @@
 				<p>Contented will added soon</p>
 		
 
-					<h4>Member Tasks </h4>
+					<h3>Member Tasks</h3>
 						<ul class="collection">
-						    <li class="collection-item avatar">
+						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle blue">store</i>
 						      <span class="title">Alizah Barker</span>
 						      <p>Architect<br>
@@ -26,15 +26,15 @@
 						      </p>
 						      
 						    </li>
-						    <li class="collection-item avatar">
-						      <i class="material-icons circle yellow">http</i>
+						    <li class="collection-item avatar indigo lighten-3">
+						      <i class="material-icons circle orange">http</i>
 						      <span class="title">Chadrick Frederick</span>
 						      <p>Content Master and Designer<br>
 						         What we actually did
 						      </p>
 						     
 						    </li>
-						    <li class="collection-item avatar">
+						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle green">mode_edit</i>
 						      <span class="title">Daniel Gomez</span>
 						      <p>CSS Artist<br>
@@ -42,7 +42,7 @@
 						      </p>
 						      
 						    </li>
-						    <li class="collection-item avatar">
+						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle red">view_quilt</i>
 						      <span class="title">Mariana Flores Kim</span>
 						      <p>Framework Wrangler<br>
@@ -50,7 +50,7 @@
 						      </p>
 						      
 						    </li>
-						    <li class="collection-item avatar">
+						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle purple">view_carousel</i>
 						      <span class="title">Jacob Margolis</span>
 						      <p>JavaScript Coder<br>
@@ -58,16 +58,18 @@
 						      </p>
 						      
 						    </li>
-
-
 						 </ul>
-            
+          
 
-
-					<h4>Technologies Used</h4>
-						<p>Contented will added soon</p>
+					<h3>Technologies Used</h3>
+						<p>
+							<ul>
+							<li>Git repository hosting service: Github</li>
+							<li>CSS Framework: Materialize v0.97.7</li>
+							<li>what else</li>
+							</ul> </p>
 		
-					<h4>Content Sources</h4>
+					<h3>Content Sources</h3>
 						<p>Contented will added soon</p>
 
 		
