@@ -16,14 +16,14 @@ p {
 	margin-top: 0px;
 }
 
-figure {
-	float: right;
-	margin-left: 20px;
-}
-
 a {
 	color: #1a237e;
 	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
 }
 
 a:hover{
@@ -42,8 +42,8 @@ article, aside {
 }
 
 
-article{
-	width: 60%;
+article {
+	width: 70%;
 	padding-right: 30px;
 }
 
@@ -71,7 +71,7 @@ aside {
 	STATE
 	************* */
 
-	@media (max-width: 720px) {
+	@media (max-width: 640px) {
 	article, aside, footer, header, .container {
 		display: block;
 		width: auto;
