@@ -3,6 +3,8 @@
 	include "inc/topPart.inc"; 
 	?>
 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
      <?php include "inc/nav.inc"; ?>
 
 	<header>
@@ -15,7 +17,52 @@
 		
 
 					<h4>Member Tasks </h4>
-						<p>Contented will added soon</p>
+						<ul class="collection">
+						    <li class="collection-item avatar">
+						      <img src="images/yuna.jpg" alt="" class="circle">
+						      <span class="title">Alizah Barker</span>
+						      <p>Architect<br>
+						         What we actually did
+						      </p>
+						      
+						    </li>
+						    <li class="collection-item avatar">
+						      <i class="material-icons circle">http</i>
+						      <span class="title">Chadrick Frederick</span>
+						      <p>Content Master and Designer<br>
+						         What we actually did
+						      </p>
+						     
+						    </li>
+						    <li class="collection-item avatar">
+						      <i class="material-icons circle green">mode_edit</i>
+						      <span class="title">Daniel Gomez</span>
+						      <p>CSS Artist<br>
+						         What we actually did
+						      </p>
+						      
+						    </li>
+						    <li class="collection-item avatar">
+						      <i class="material-icons circle red">perm_media</i>
+						      <span class="title">Mariana Flores Kim</span>
+						      <p>Framework Wrangler<br>
+						         What we actually did
+						      </p>
+						      
+						    </li>
+						    <li class="collection-item avatar">
+						      <i class="material-icons circle red">view_carousel</i>
+						      <span class="title">Jacob Margolis</span>
+						      <p>JavaScript Coder<br>
+						         What we actually did
+						      </p>
+						      
+						    </li>
+
+
+						 </ul>
+            
+
 
 					<h4>Technologies Used</h4>
 						<p>Contented will added soon</p>
@@ -27,9 +74,7 @@
 			</article>
 		</section>
 
-			<footer>
-				<h4>Team 5, CSC	174	Advance Front-End Web Development</h4>	
-			</footer>
+		<?php include inc/footer.inc ?>
 
 	</div><!-- .container -->
 
