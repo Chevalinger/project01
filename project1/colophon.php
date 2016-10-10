@@ -74,7 +74,7 @@
 			</article>
 		</section>
 
-		<?php include inc/footer.inc ?>
+		<?php include "inc/footer.inc"; ?>
 
 	</div><!-- .container -->
 
