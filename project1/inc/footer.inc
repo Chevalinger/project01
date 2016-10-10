@@ -2,7 +2,7 @@
 	<div class = "container">
 		<div class = "row">
 				<h4 class = "white-text">About us:</h4>
-				<p class = "flow-text">Team 5, CSC174 Advance Front-End Web Development</p>
+				<p class = "flow-text">Team 5, CSC 174 Advanced Front-End Web Development</p>
 		</div>
 	</div>
 	<div class ="footer-copyright">
