@@ -1,13 +1,14 @@
 To do list:
 
 -Finish slideshow
--Make home buttong larger
+-Make home button larger (done but not it the best way)
+-Colophon
 
 -Mobile
 	Add container
 	Fix picture smushing issues
 	site is loading too large
 	footer gets cutoff
-	double justify text
+	double justify text (done but not it the best way)
 
 -IE compatibility (dont use cards)
