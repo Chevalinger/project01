@@ -73,19 +73,20 @@ aside {
 	max-width: 60%
 }
 
-/* Make sure the HOME button is bigger than the other buttons */
-.home-big a {
+/* Make sure the HOME element is bigger than the others */
+#home-big a {
 	font-size: 20px;
 	font-weight: bold;
 }
 
 /* Make the nav elements bigger and change the color when they hover on them */
-.home-big a:hover {
+/* Home element */
+#home-big a:hover {
 	font-size: 1.6em;
 	color: #70d6ff;
 }
-
-.nav-element a:hover {
+/* Sports & Colophon elements */
+#soccer a:hover, #frisbee a:hover, #baseball a:hover, #colophon a:hover {
 	color: #70d6ff;
 }
 
