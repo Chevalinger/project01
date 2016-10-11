@@ -3,7 +3,7 @@
       
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">reorder</i></a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
-          <li <?php if ($currentPage == "Home") echo 'class="active"';?>><a class="home-bigger" href="index.php">Home</a></li>
+          <li class="home-big" <?php if ($currentPage == "Home") echo 'class="active"';?>><a href="index.php">Home</a></li>
           <li <?php if ($currentPage == "Soccer") echo 'class="active"';?>><a href="soccer.php">Soccer</a></li>
           <li <?php if ($currentPage == "Frisbee") echo 'class="active"';?>><a href="frisbee.php">Frisbee</a></li>
           <li <?php if ($currentPage == "Baseball") echo 'class="active"';?>><a href="baseball.php">Baseball</a></li>

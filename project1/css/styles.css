@@ -21,21 +21,16 @@ a {
 	text-decoration: none;
 }
 
+a:hover{
+	color: #3f51b5;
+	font-size: 1.3em;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
 }
 
-a:hover{
-	color: #3f51b5;
-}
-
-.container{
-	margin: 0 auto;
-	width: 80%;
-	max-width: 1200px;
-	
-}
 
 article, aside {
 	display: table-cell;
@@ -52,6 +47,13 @@ aside {
 	padding-left: 30px;
 }
 
+.container {
+	margin: 0 auto;
+	width: 80%;
+	max-width: 1200px;
+	
+}
+
 .horizontal {
 	max-width: 51%;
 	float: right;
@@ -66,14 +68,21 @@ aside {
 	max-width: 60%
 }
 
-.home-bigger {
+/* Make sure the HOME button is bigger than the other buttons */
+.home-big a{
 	font-size: 20px;
+	font-weight: bold;
 }
 
+<<<<<<< Updated upstream
 figure {
 	float: right;
 	padding-left: 5px;
 	max-width: 100%
+=======
+.home-big a:hover {
+	font-size: 1.5em;
+>>>>>>> Stashed changes
 }
 
 /* ****************
