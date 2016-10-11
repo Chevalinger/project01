@@ -24,9 +24,8 @@
 				<h3>History</h3>
 					
 
-				 <div class="col s12 m7">
-        
-            <div class="card horizontal">
+			
+            <div class="card horizontal hide-on-med-and-down">
             <div class="card-image">
               
                 <img src="images/soccer2.jpg" alt="Soccer History">
@@ -37,6 +36,12 @@
                 </div>
                 </div>
               </div>
+            
+            <div class="hide-on-large-only">
+            	<figure>
+            	<img src="images/soccer2.jpg" alt="Soccer History">
+            	<figcaption>An episkyros player on an ancient stone carving at the National Archaeological Museum, Athens.</figcaption>
+            </figure>
             </div>
 
 					<p>According to FIFA, the Chinese competitive game cuju (蹴鞠, literally "kick ball") is the earliest form of football for which there is scientific evidence.[12] Cuju players could use any part of the body apart from hands and the intent was kicking a ball through an opening into a net. It was remarkably similar to modern football, though similarities to rugby occurred.[13][14] During the Han Dynasty (206 BC – 220 AD), cuju games were standardised and rules were established.[13]</p>

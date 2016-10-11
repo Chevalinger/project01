@@ -23,9 +23,8 @@
                 
             <div class="col s12 m7">
         
-            <div class="card horizontal">
+            <div class="card horizontal hide-on-med-and-down">
             <div class="card-image">
-              
                 <img src="images/frisbee1.jpg" alt="Frisbee History">
                 </div>
                 <div class="card-stacked">
@@ -36,6 +35,13 @@
               </div>
             </div>
           
+
+          <div class="hide-on-large-only">
+              <figure>
+              <img src="images/frisbee1.jpg" alt="Frisbee History">
+              <figcaption>The first Frisbee (Professional Model) ever designed with a tournament identification. The 1972 Canadian Open Frisbee Championships,Toronto.</figcaption>
+            </figure>
+            </div>
       
 
                 <p>Fred Morrison discovered a market for the modern-day flying disc[6] in 1938 when he and future wife, Lucile, were offered 25 cents for a cake pan that they were tossing back and forth on a beach in New Haven, CT. "That got the wheels turning, because you could buy a cake pan for five cents, and if people on the beach were willing to pay a quarter for it, well - there was a business," Morrison told The Virginian-Pilot newspaper in 2007.[7]</p>

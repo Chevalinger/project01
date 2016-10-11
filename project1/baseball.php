@@ -24,7 +24,7 @@
                  
                  <div class="col s12 m7">
         
-            <div class="card horizontal">
+            <div class="card horizontal hide-on-med-and-down">
             <div class="card-image">
               
                 <img src="images/baseball1.jpg" alt="Baseball History">
@@ -38,6 +38,14 @@
           
         </div>
           
+          <!-- for mobile usability -->
+
+          <div class="hide-on-large-only">
+              <figure>
+                  <img src="images/baseball1.jpg" alt="Baseball History">
+                  <figcaption>Alexander Cartwright, father of modern baseball.</figcaption>
+              </figure>
+          </div>
 
                 <p>The evolution of baseball from older bat-and-ball games is difficult to trace with precision. A French manuscript from 1344 contains an illustration of clerics playing a game, possibly la soule, with similarities to baseball.[1] Other old French games such as thèque, la balle au bâton, and la balle empoisonnée also appear to be related.[2] Consensus once held that today's baseball is a North American development from the older game rounders, popular in Great Britain and Ireland. Baseball Before We Knew It: A Search for the Roots of the Game (2005), by David Block, suggests that the game originated in England; recently uncovered historical evidence supports this position. Block argues that rounders and early baseball were actually regional variants of each other, and that the game's most direct antecedents are the English games of stoolball and "tut-ball."[3] It has long been believed that cricket also descended from such games, though evidence uncovered in early 2009 suggests that cricket may have been imported to England from Flanders.[4]</p>
 
