@@ -13,7 +13,7 @@
 
 	<div class="container">
 	<header>
-		<h1 class = "sports-title">
+		<h1 class = "title">
 			<a href="index.php">Sports!</a>
 		</h1>
 
