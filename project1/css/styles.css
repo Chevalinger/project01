@@ -50,7 +50,7 @@ aside {
 }
 
 /* Make the title stay the same size when they hover on it */
-.title a:hover{
+.sports-title a:hover{
 	font-size: 1em;
 }
 
@@ -59,6 +59,12 @@ aside {
 	width: 90%;
 	max-width: 1200px;
 	
+}
+
+.tech-used li {
+	list-style-type: circle;
+	list-style-position: inside;
+	padding-left: 25px;
 }
 
 .horizontal {

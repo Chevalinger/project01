@@ -64,12 +64,14 @@
           
 
 					<h3>Technologies Used</h3>
-						<p>
-							<ul>
+							<ul class="tech-used">
 							<li>Git repository hosting service: Github</li>
 							<li>CSS Framework: Materialize v0.97.7</li>
-							<li>what else</li>
-							</ul> </p>
+							<li>HTML5</li>
+							<li>CSS3</li>
+							<li>JavaScript</li>
+							<li>PHP</li>
+							</ul>
 		
 					<h3>Content Sources</h3>
 						<p>Contented will added soon</p>
