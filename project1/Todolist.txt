@@ -1,6 +1,7 @@
 To do list:
 
 -Finish slideshow
+	I added sections of each one of us, please add extra things you did! I don't 	know/remember all of them.
 -Make home button larger
 	I think it's good now.
 -Colophon
@@ -13,3 +14,7 @@ To do list:
 	double justify text (done but not it the best way)
 
 -IE compatibility (dont use cards)
+
+Notes:
+
+I fixed the problem I caused with the nav current situation Alizah! :)...I fixed it with the id part that I mentioned. Let me know if you have questions.
