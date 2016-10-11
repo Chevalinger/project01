@@ -1,7 +1,8 @@
 To do list:
 
 -Finish slideshow
--Make home button larger (done but not it the best way)
+-Make home button larger
+	I think it's good now.
 -Colophon
 
 -Mobile
