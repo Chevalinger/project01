@@ -66,6 +66,10 @@ aside {
 	max-width: 60%
 }
 
+.home-bigger {
+	font-size: 20px;
+}
+
 
 /* ****************
 	STATE
@@ -82,3 +86,9 @@ aside {
 	}
 
 }
+
+	@media (max-width: 640px) {
+		article, aside {
+			text-align: justify;
+		}
+	}
