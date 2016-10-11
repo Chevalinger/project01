@@ -120,15 +120,15 @@ aside {
 }
 
 
-<<<<<<< Updated upstream
+
 figure {
 	float: right;
 	padding-left: 5px;
 	max-width: 100%
-=======
+}
 .home-big a:hover {
 	font-size: 1.5em;
->>>>>>> Stashed changes
+
 }
 
 /* ****************
