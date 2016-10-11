@@ -86,7 +86,6 @@ figure {
 		width: auto;
 		max-width: 100%;
 		margin: 0 auto;
-		padding: 0 auto;
 		width: 80%;
 			}
 	article, aside {
@@ -95,7 +94,9 @@ figure {
 	h1 {
 		text-align: center;
 	}
-
+	.footer-copyright {
+		text-align: center;
+	}
 
 	}
 }

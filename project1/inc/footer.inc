@@ -6,8 +6,13 @@
 		</div>
 	</div>
 	<div class ="footer-copyright">
-		<div class ="container">
+		<div class ="container hide-on-small-only">
 			Content taken from    <a href="<?php echo $contentFrom ?>" class="waves-effect waves-light btn cyan"><?php echo "$sportName" ?>Wikipedia</a>
+		</div>
+		
+<!--for mobile usability-->
+		<div class="hide-on-med-and-up">
+			Content taken from <a href="<?php echo $contentFrom ?>"><?php echo "$sportName" ?>Wikipedia</a>
 		</div>
 	</div>			
 </footer>

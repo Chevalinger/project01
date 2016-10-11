@@ -35,6 +35,7 @@
               </div>
             </div>
           
+<!--for mobile usability-->
 
           <div class="hide-on-large-only">
               <figure>
