@@ -73,7 +73,7 @@ aside {
 
 /* ****************
 	STATE
-	************* */
+***************** */
 
 	@media (max-width: 640px) {
 	article, aside, footer, header, .container {
@@ -82,13 +82,12 @@ aside {
 		max-width: 100%;
 		margin: 0 auto;
 		width: 80%;
-		
-	}
-
-}
-
-	@media (max-width: 640px) {
-		article, aside {
+			}
+	article, aside {
 			text-align: justify;
 		}
+	h1 {
+		text-align: center;
 	}
+}
+
