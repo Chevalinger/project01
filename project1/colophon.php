@@ -56,7 +56,7 @@
 						      <i class="material-icons circle purple">view_carousel</i>
 						      <span class="title">Jacob Margolis</span>
 						      <p>JavaScript Coder<br>
-						         What we actually did
+						      	Carousel, SideNav, General help
 						      </p>
 						      
 						    </li>
