@@ -10,13 +10,11 @@
      <?php include "inc/nav.inc.php"; ?>
 
 
-		<h2>Highlights of the Project</h2>
+		<h2>About the Project</h2>
 	
 
 		<section>
 			<article>
-				<p>Contented will added soon</p>
-		
 
 					<h3>Member Tasks</h3>
 						<ul class="collection tasks">
