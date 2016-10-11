@@ -17,7 +17,6 @@
           <li class= "nav-element" <?php if ($currentPage == "Baseball") echo 'class="active"';?>><a href="baseball.php">Baseball</a></li>
           <li class= "nav-element" <?php if ($currentPage == "Colophon") echo 'class="active"';?>><a href="colophon.php">Colophon</a></li>
       </ul>
-      </ul>
     </div>
   </nav>
 
