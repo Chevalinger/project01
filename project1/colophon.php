@@ -24,7 +24,7 @@
 						      <i class="material-icons circle blue">store</i>
 						      <span class="title">Alizah Barker</span>
 						      <p>Architect<br>
-						         What we actually did
+						         Design elements, Mobile friendliness, Framework elements, General help
 						      </p>
 						      
 						    </li>
@@ -32,7 +32,7 @@
 						      <i class="material-icons circle orange">http</i>
 						      <span class="title">Chadrick Frederick</span>
 						      <p>Content Master and Designer<br>
-						         What we actually did
+						         Content topic, Content structure
 						      </p>
 						     
 						    </li>
@@ -40,7 +40,7 @@
 						      <i class="material-icons circle green">mode_edit</i>
 						      <span class="title">Daniel Gomez</span>
 						      <p>CSS Artist<br>
-						         What we actually did
+						         CSS customization
 						      </p>
 						      
 						    </li>
@@ -48,7 +48,7 @@
 						      <i class="material-icons circle red">view_quilt</i>
 						      <span class="title">Mariana Flores Kim</span>
 						      <p>Framework Wrangler<br>
-						         What we actually did
+						         Framework, Code cleaning, design
 						      </p>
 						      
 						    </li>
