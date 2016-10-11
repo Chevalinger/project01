@@ -86,7 +86,7 @@ figure {
 		width: auto;
 		max-width: 100%;
 		margin: 0 auto;
-		width: 80%;
+		width: 90%;
 			}
 	article, aside {
 			text-align: justify;
@@ -95,9 +95,12 @@ figure {
 		text-align: center;
 	}
 	.footer-copyright {
-		text-align: center;
+		padding-left: 5%;
 	}
-
+	footer h5, footer p {
+		padding-left: 5%;
+		padding-right: 5%
+	}
 	}
 }
 
