@@ -67,6 +67,12 @@ aside {
 	padding-left: 25px;
 }
 
+.mem-tasks li {
+	list-style-type: circle;
+	list-style-position: inside;
+	padding-left: 5px;
+}
+
 .horizontal {
 	max-width: 51%;
 	float: right;
