@@ -12,10 +12,11 @@
 
        <ul class="side-nav indigo lighten-4" id="mobile-demo">
         <li <?php if ($currentPage == "Home") echo 'class="active"';?>><a href="index.php">Home</a></li>
-          <li class= "nav-element" <?php if ($currentPage == "Soccer") echo 'class="active"';?>><a href="soccer.php">Soccer</a></li>
-          <li class= "nav-element" <?php if ($currentPage == "Frisbee") echo 'class="active"';?>><a href="frisbee.php">Frisbee</a></li>
-          <li class= "nav-element" <?php if ($currentPage == "Baseball") echo 'class="active"';?>><a href="baseball.php">Baseball</a></li>
-          <li class= "nav-element" <?php if ($currentPage == "Colophon") echo 'class="active"';?>><a href="colophon.php">Colophon</a></li>
+          <li <?php if ($currentPage == "Soccer") echo 'class="active nav-element"'; else echo 'class="nav-element"';?>><a href="soccer.php">Soccer</a></li>
+          <li <?php if ($currentPage == "Frisbee") echo 'class="active nav-element"'; else echo 'class="nav-element"';?>><a href="frisbee.php">Frisbee</a></li>
+          <li <?php if ($currentPage == "Baseball") echo 'class="active nav-element"'; else echo 'class="nav-element"';?>><a href="baseball.php">Baseball</a></li>
+          <li <?php if ($currentPage == "Colophon") echo 'class="active nav-element"'; else echo 'class="nav-element"';?>><a href="colophon.php">Colophon</a></li>
+          
       </ul>
     </div>
   </nav>
