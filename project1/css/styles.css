@@ -50,7 +50,7 @@ aside {
 }
 
 /* Make the title stay the same size when they hover on it */
-.sports-title a:hover{
+.title a:hover {
 	font-size: 1em;
 }
 
