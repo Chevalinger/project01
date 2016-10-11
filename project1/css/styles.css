@@ -47,6 +47,11 @@ aside {
 	padding-left: 30px;
 }
 
+/* Make the title stay the same size when they hover on it */
+.title a:hover{
+	font-size: 1em;
+}
+
 .container {
 	margin: 0 auto;
 	width: 80%;
@@ -69,17 +74,41 @@ aside {
 }
 
 /* Make sure the HOME button is bigger than the other buttons */
-.home-big a{
+.home-big a {
 	font-size: 20px;
 	font-weight: bold;
 }
 
+/* Make the nav elements bigger and change the color when they hover on them */
+.home-big a:hover {
+	font-size: 1.6em;
+	color: #70d6ff;
+}
+
+.nav-element a:hover {
+	color: #70d6ff;
+}
+
+/* Three columns for the three sports */
 .section1, .section2, .section3 {
 	display: table-cell;
 	vertical-align: top;
-	padding-right: 20px;
-	width: 33.3%;
+	text-align: justify;
+	text-justify: inter-word;
+	padding-bottom: 20px;
+	width: 33%;
 }
+
+/* Make the first letter bigger than the rest of the text */
+.section0 p::first-letter, .section1 p::first-letter, .section2 p::first-letter, .section3 p::first-letter { 
+    font-size: 150%;
+}
+
+/* Add some padding to the sections of the sports */
+.section1, .section2 {
+	padding-right: 20px;	
+}
+
 
 <<<<<<< Updated upstream
 figure {
