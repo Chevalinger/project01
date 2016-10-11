@@ -1,4 +1,4 @@
-	
+
 	<?php 
 	//Add the name of the page to the title
 	$currentPage = "Colophon";
@@ -74,7 +74,7 @@
 							</ul>
 		
 					<h3>Content Sources</h3>
-						<p>Contented will added soon</p>
+						<p>Wikipedia</p>
 
 		
 			</article>
